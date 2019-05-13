@@ -7,7 +7,7 @@ func English() string {
 
 // Japanese ... Japanese
 func Japanese() string {
-	return "hello, 世界"
+	return "こんにちは、世界"
 }
 
 // Chinese ... Chinese
