@@ -14,3 +14,7 @@ func Japanese() string {
 func Chinese() string {
 	return "你好,是世界"
 }
+
+func testFrench() string {
+	return "Bonjour, le monde"
+}
