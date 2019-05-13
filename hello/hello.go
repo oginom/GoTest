@@ -2,7 +2,7 @@ package hello
 
 // English ... English
 func English() string {
-	return "Hello, world of humburgers"
+	return "Hello, worldo"
 }
 
 // Japanese ... Japanese
